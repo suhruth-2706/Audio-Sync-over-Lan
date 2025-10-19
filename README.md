@@ -1,4 +1,4 @@
-# Music Sync over LAN - Resume Highlights
+# Music Sync over LAN 
 
 ## Project Overview
 Developed a real-time music synchronization system that enables multiple devices on a local area network to play music simultaneously with synchronized playback control.
