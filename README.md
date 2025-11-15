@@ -1,4 +1,5 @@
-# Music Sync over LAN 
+
+# Audio sync with LAN 
 
 ## Project Overview
 Developed a real-time music synchronization system that enables multiple devices on a local area network to play music simultaneously with synchronized playback control.
@@ -89,7 +90,7 @@ Architecture: Client-Server, Event-Driven, Multi-threading, RESTful APIs
 
 ### Project Description Template
 ```
-Music Sync over LAN | Python, Flask, JavaScript, WebSockets
+audio sync with lan | Python, Flask, JavaScript, WebSockets
 • Developed real-time music synchronization system enabling synchronized playback across multiple LAN devices
 • Implemented WebSocket-based communication using Flask-SocketIO for low-latency control and status updates
 • Built audio streaming pipeline with chunked data transfer and Web Audio API integration for browser playback
@@ -137,3 +138,4 @@ Music Sync over LAN | Python, Flask, JavaScript, WebSockets
 - Created user-friendly interface requiring zero technical knowledge to operate
 - Demonstrated full-stack development capabilities from network protocols to UI design
 - Showcased problem-solving skills in real-time distributed systems
+
